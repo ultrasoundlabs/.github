@@ -9,7 +9,7 @@
 The key to reach mass adoption is to build solutions that:
 - *User-first:* ...ordinary users need and will need most.
 - *Simple:* ...need no previous experience in Web3.
-- *Trustless:* ...prefer the crypto approach. Aggressively utilizing *ZK-MPC-FHE-TEE-ADHD-whatever* is infinitely better than *a centralized, rate-seeking [SPOF](https://en.wikipedia.org/wiki/Single_point_of_failure)*.
+- *Trustless:* ...prefer the crypto approach. Aggressively utilizing *ZK-MPC-FHE-TEE-ADHD-whatever* is infinitely better than *a centralized, rent-seeking [SPOF](https://en.wikipedia.org/wiki/Single_point_of_failure)*.
 - *Borderless:* ...don't care who you are and where you are. Discrimination is and must stay Web2's disease.
 - ***Ultrasound:*** ...work much, much **better** than today's alternatives.
 
