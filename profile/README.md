@@ -15,9 +15,11 @@ The key to reach mass adoption is to build solutions that:
 
 # Our Projects
 
-[Untron](https://github.com/ultrasoundlabs/untron/) — ZK implementation of a trustless, marketplace-based USDT bridge between Tron and Ethereum ecosystem [*(Hook, 2024)*](https://ethresear.ch/t/p2p-zk-light-client-bridge-between-tron-and-ethereum-l2s/19931). Currently in development.
+### Untron Project
 
-[Accounts](https://github.com/ultrasoundlabs/Accounts) — an importless, precompileless, and modular Solidity library providing registration and rate-limiting logic for users. Fully open source and MIT-licensed.
+[Untron V1](https://github.com/ultrasoundlabs/untron/) — trustless, marketplace-based bridge between Tron and Ethereum ecosystems, powered by ZK proofs of Tron blockchain. [*(Hook, 2024)*](https://ethresear.ch/t/p2p-zk-light-client-bridge-between-tron-and-ethereum-l2s/19931)
+
+[Untron Intents](https://github.com/ultrasoundlabs/untron-intents/) — intent-based bridge from L2s to USDT Tron with solver based on Untron V1's ZK circuit. Currently in development.
 
 # Supported by
 
