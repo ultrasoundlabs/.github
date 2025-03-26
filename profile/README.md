@@ -25,6 +25,14 @@ The key to reach mass adoption is to build solutions that:
 
 - [Untron Frontend](https://github.com/ultrasoundlabs/untron-frontend/) ([untron.finance](https://untron.finance) -> [untron.eth](https://untron.eth.limo)) — Official, decentralized UI for Untron protocols. Currently in development.
 
+# Our Team
+
+- [Alex Hook](https://github.com/alexhooketh) - (Formal) Founder, Lead Engineer
+- [Alex Kuzmin](https://github.com/apkuzmin) - Co-founder, Lead Designer
+- [Ziemann](https://github.com/ziemen4) - Co-founder, Research.
+
+And contributors: [Salem](https://github.com/olaoyesalem) and hopefully more soon...!
+
 # Supported by
 
 - [Base](https://base.org) — [Base Builder Grants 2024, 16th Wave](https://x.com/base/status/1828566637714551173)
