@@ -20,7 +20,7 @@ The key to reach mass adoption is to build solutions that:
 - [Untron V3](https://github.com/ultrasoundlabs/untron-v3/) — Horizontally scalable cross-chain liquidity protocol for Tron and EVM that uses an onchain Tron light client [(Hook, 2024)](https://ethresear.ch/t/p2p-zk-light-client-bridge-between-tron-and-ethereum-l2s/19931) for trustless swaps between chains. It supports swaps from any coin on Tron into any coin on 20+ EVM chains, orders $10m+ in size with smart routing, liquidity provision, and permanent deposit addresses. The entire infrastructure of Untron V3 is open-source and self-hostable in a one-click Dockerized setup.
 - [Untron Intents](https://github.com/ultrasoundlabs/untron-intents/) - Intent-based framework for provably performing transactions on Tron from other EVM chains on-demand, based on Untron V3's trustless stack. Used for rapid & dust cheap swaps from EVM chains into Tron.
 - [Untron V2](https://github.com/ultrasoundlabs/untron-v2/) — Legacy P2P protocol for swaps from Tron to Base. It had been running for over 9 months with zero hacks and losses, performed ~3k swaps over $600k in volume, and helped over 10 teams in crypto untron their users.
-- [Untron Interface] — open-source and self-hostable UIs for the Untron project's protocols and solutions.
+- [Untron Interface](https://github.com/ultrasoundlabs/untron-interface/) — open-source and self-hostable UIs for the Untron project's protocols and solutions.
 
 # Our Team
 
