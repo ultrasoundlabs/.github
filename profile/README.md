@@ -2,7 +2,7 @@
 
 ![ultrasound labs banner](https://github.com/user-attachments/assets/bfccc0d5-d3bf-40fa-84a0-783732a451dd)
 
-**Welcome!** We're *Ultrasound Labs*, a team of developers specializing in building ultrasound solutions that matter most for today's Web3. We're based and registered in Georgia 🇬🇪
+**Welcome!** We're *Ultrasound Labs*, a team of developers specializing in building ultrasound solutions that matter most for today's Web3. We're based in Georgia 🇬🇪
 
 # Ultrasound Vision
 
@@ -17,22 +17,17 @@ The key to reach mass adoption is to build solutions that:
 
 ### [Untron](https://x.com/untronfi)
 
-- [Untron ZK Engine](https://github.com/ultrasoundlabs/untron/) — Minimal Rust implementation of a Tron Blockchain node with an internal state and filtering used by V1 and Intents protocols. It's compiled using SP1 zkVM to generate ZK proofs of Tron blockchain, easily verifiable on Ethereum.
-
-- [Untron V1](https://github.com/ultrasoundlabs/untron-v1/) — trustless P2P marketplace for trustless swaps from USDT Tron to L2s, powered by ZK engine. [*(Hook, 2024)*](https://ethresear.ch/t/p2p-zk-light-client-bridge-between-tron-and-ethereum-l2s/19931)
-
-- [Untron Intents](https://github.com/ultrasoundlabs/untron-intents/) — intent-based bridge for dust cheap L2-based transfers of USDT Tron, powered by ZK engine.
-
-- [Untron Frontend](https://github.com/ultrasoundlabs/untron-frontend/) ([untron.finance](https://untron.finance) -> [untron.eth](https://untron.eth.limo)) — Official, decentralized UI for Untron protocols. Currently in development.
+- [Untron V3](https://github.com/ultrasoundlabs/untron-v3/) — Horizontally scalable cross-chain liquidity protocol for Tron and EVM that uses an onchain Tron light client [(Hook, 2024)](https://ethresear.ch/t/p2p-zk-light-client-bridge-between-tron-and-ethereum-l2s/19931) for trustless swaps between chains. It supports swaps from any coin on Tron into any coin on 20+ EVM chains, orders $10m+ in size with smart routing, liquidity provision, and permanent deposit addresses. The entire infrastructure of Untron V3 is open-source and self-hostable in a one-click Dockerized setup.
+- [Untron Intents](https://github.com/ultrasoundlabs/untron-intents/) - Intent-based framework for provably performing transactions on Tron from other EVM chains on-demand, based on Untron V3's trustless stack. Used for rapid & dust cheap swaps from EVM chains into Tron.
+- [Untron V2](https://github.com/ultrasoundlabs/untron-v2/) — Legacy P2P protocol for swaps from Tron to Base. It had been running for over 9 months with zero hacks and losses, performed ~3k swaps over $600k in volume, and helped over 10 teams in crypto untron their users.
+- [Untron Interface] — open-source and self-hostable UIs for the Untron project's protocols and solutions.
 
 # Our Team
 
-- [Alex Hook](https://github.com/alexhooketh) - (Formal) Founder, Lead Engineer
-- [Alex Kuzmin](https://github.com/apkuzmin) - Co-founder, Lead Designer
-- [Ziemann](https://github.com/ziemen4) - Co-founder, Research.
-
-And contributors: [Salem](https://github.com/olaoyesalem) and hopefully more soon...!
+- [Alex Hook](https://github.com/alexhooketh) - Founder, Lead Engineer
+- [Alex Kuzmin](https://github.com/apkuzmin) - Lead Designer
+- [Ziemann](https://github.com/ziemen4) - Contributor, research
 
 # Supported by
 
-- [Base](https://base.org) — [Base Builder Grants 2024, 16th Wave](https://x.com/base/status/1828566637714551173)
+- [Base](https://base.org) — [Base Builder Grants 2024, 16th Wave](https://x.com/base/status/1828566637714551173), Base Builder Grants Q4 2025
